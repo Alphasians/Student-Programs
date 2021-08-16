@@ -34,4 +34,16 @@
 - [Processing Foundation](https://processingfoundation.org/fellowships)
     <p> The Processing Foundation Fellowships support artists, coders, and collectives in visionary projects that conceive a new direction for what Processing as a software and a community can do. Fellowships emphasize projects that expand Processing and its affiliated projects, as well as the evolution of a Fellow’s practice. Work done by Fellows is supported through funding and mentorship from The Processing Foundation.</p>
 
+## Extras
 
+- Alibaba Summer of Code - https://www.alibabacloud.com/campaign/summerofcode2020?spm=a2c65.11461447.0.0.15b57581isEras
+- Coding Blocks(BOSS) - https://boss.codingblocks.com/ 
+- FOSSASIA Codeheat - https://codeheat.org/
+- FOSSASIA Internship Programe - https://fossasia.org/
+- Free Software Foundation (FSF) Internship Program - https://www.fsf.org/volunteer/internships
+- Hyperledger Mentorship Program - https://wiki.hyperledger.org/display/INTERN
+- Hacktoberfest - https://hacktoberfest.digitalocean.com/
+- Igalia Coding Experience Program - https://www.igalia.com/coding-experience/
+- Qubitro Ambassador Program: https://blog.qubitro.com/qubitro-ambassador/
+- Radare Summer of Code - https://www.radare.org/rsoc/2019/
+- RAILS GIRLS SUMMER OF CODE- https://railsgirlssummerofcode.org/
