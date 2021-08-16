@@ -15,30 +15,23 @@
     <p>GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education. Over the course of the program, participants can contribute to a variety of themes under the guidance of an expert facilitator.</p>
 
 ### Linux Foundation
+
+- [LFX](https://lfx.linuxfoundation.org/participate/join-project/)
+    <p>Organizations join LF projects because they want to take an active role in supporting the growth and evolution of open technologies</p>
 - [Outreachy](https://www.outreachy.org/)
     <p>Outreachy is a diversity initiative that provides paid, remote internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</p>
 - [Open Mainframe Project](https://www.openmainframeproject.org/projects/mentorship-program)
     <p>The mainframe design principles of security, stability, scalability, and performance are important to these leading organizations, and having the mainframe interoperable in a hybrid infrastructure enables leading organizations to realizes it’s benefits. Open Mainframe Project believes this can only be achieved as a community through open source.</p>
-- [LFX](https://lfx.linuxfoundation.org/participate/join-project/)
-    <p>Organizations join LF projects because they want to take an active role in supporting the growth and evolution of open technologies</p>
 
 ### Fellowship
+
 - [Battlesnake](https://fellowship.battlesnake.com/)
     <p>The RBC & Battlesnake Developer Fellowship is an exciting new initiative aimed at recognizing and supporting women, female-identifying and non-binary developers in launching the next stage of their Battlesnake journey.</p>
-- [Processing Foundation](https://processingfoundation.org/fellowships)
-    <p> The Processing Foundation Fellowships support artists, coders, and collectives in visionary projects that conceive a new direction for what Processing as a software and a community can do. Fellowships emphasize projects that expand Processing and its affiliated projects, as well as the evolution of a Fellow’s practice. Work done by Fellows is supported through funding and mentorship from The Processing Foundation.</p>
+
 - [MLH](https://fellowship.mlh.io/programs/explorer)
     <p>The MLH Pre-Fellowship is a 4-week fellowship preparation program for aspiring technologists. You'll build out your portfolio of personal projects & experiment with new technologies by collaborating in small groups through a short hackathon sprint. </p>
 
-## Extras
+- [Processing Foundation](https://processingfoundation.org/fellowships)
+    <p> The Processing Foundation Fellowships support artists, coders, and collectives in visionary projects that conceive a new direction for what Processing as a software and a community can do. Fellowships emphasize projects that expand Processing and its affiliated projects, as well as the evolution of a Fellow’s practice. Work done by Fellows is supported through funding and mentorship from The Processing Foundation.</p>
 
-- Alibaba Summer of Code - https://www.alibabacloud.com/campaign/summerofcode2020?spm=a2c65.11461447.0.0.15b57581isEras
-- Radare Summer of Code - https://www.radare.org/rsoc/2019/
-- RAILS GIRLS SUMMER OF CODE- https://railsgirlssummerofcode.org/
-- FOSSASIA Internship Programe - https://fossasia.org/
-- Free Software Foundation (FSF) Internship Program - https://www.fsf.org/volunteer/internships
-- Igalia Coding Experience Program - https://www.igalia.com/coding-experience/
-- Hyperledger Mentorship Program - https://wiki.hyperledger.org/display/INTERN
-- Hacktoberfest - https://hacktoberfest.digitalocean.com/
-- Coding Blocks(BOSS) - https://boss.codingblocks.com/ 
-- FOSSASIA Codeheat - https://codeheat.org/
+
