@@ -37,6 +37,7 @@
 ## Extras
 
 - [Alibaba Summer of Code](https://www.alibabacloud.com/campaign/summerofcode2020?spm=a2c65.11461447.0.0.15b57581isEras)
+    <p>Alibaba Summer of Code is a global campaign focusing on engaging students directly into open source software development. Under the guidance of the mentors from Alibaba, students can use the summer to participate in a series of open source projects with the core members of the communities and experience software development in the real world.</p>
 - [Coding Blocks(BOSS)](https://boss.codingblocks.com/) 
 - [FOSSASIA Codeheat](https://codeheat.org/)
 - [FOSSASIA Internship Programe](https://fossasia.org/)
