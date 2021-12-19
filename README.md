@@ -39,7 +39,9 @@
 - [Alibaba Summer of Code](https://www.alibabacloud.com/campaign/summerofcode2020?spm=a2c65.11461447.0.0.15b57581isEras)
     <p>Alibaba Summer of Code is a global campaign focusing on engaging students directly into open source software development. Under the guidance of the mentors from Alibaba, students can use the summer to participate in a series of open source projects with the core members of the communities and experience software development in the real world.</p>
 - [FOSSASIA Codeheat](https://codeheat.org/)
+    <p>Build up your developer profile and become a codeheat hero! Winners are announced bi-monthly.</p>
 - [FOSSASIA Internship Programe](https://fossasia.org/)
+    <p>FOSSASIA is an organization developing Open Source software applications and Open Hardware together with a global community from its base in Asia. It is our goal to provide access to open technologies, science applications and knowledge that improve people's lives. We want to enable people to adapt and change technology according to their own ideas and needs and validate science and knowledge through an Open Access approach. </p>
 - [Free Software Foundation (FSF) Internship Program](https://www.fsf.org/volunteer/internships)
 - [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)
 - [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN)
