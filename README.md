@@ -49,3 +49,4 @@
 - [Radare Summer of Code](https://www.radare.org/rsoc/2019/)
 - [RAILS GIRLS SUMMER OF CODE](https://railsgirlssummerofcode.org/)
 - [SAWO Champ Program](https://bit.ly/SAWO-Labs-Champ-Program)
+- [SuperToken Program](https://dev.to/supertokens/introducing-the-supertokens-ambassador-program-4in7)
